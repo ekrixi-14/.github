@@ -1,5 +1,5 @@
-# We think you're gonna like it here
+<q>*This place used to be a home.*</q>
 
-Ekrixi Dev-Team GitHub organization.
+---
 
-[Discord](https://discord.gg/94JSqnhqHX) / [Website](https://is-going-to.cyou)
+[website](https://ekrixi.is-going-to.cyou/) / [discord](https://discord.gg/94JSqnhqHX)
